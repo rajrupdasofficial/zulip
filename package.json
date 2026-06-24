@@ -6,7 +6,7 @@
   "private": true,
   "main": "",
   "dependencies": {
-    "@babel/core": "^7.5.5",
+    "@babel/core": "^7.29.6",
     "@babel/plugin-proposal-class-properties": "^7.5.5",
     "@babel/preset-env": "^7.5.5",
     "@babel/preset-typescript": "^7.15.0",
